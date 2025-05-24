@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-23T12:39:35 IST" name="Suite" finished-at="2025-05-23T12:39:38 IST" duration-ms="3392">
+    <groups>
+    </groups>
+    <test started-at="2025-05-23T12:39:35 IST" name="Test" finished-at="2025-05-23T12:39:38 IST" duration-ms="3392">
+      <class name="org.data.Demo">
+        <test-method is-config="true" signature="befCls()[pri:0, instance:org.data.Demo@55a147cc]" started-at="2025-05-23T12:39:35 IST" name="befCls" finished-at="2025-05-23T12:39:37 IST" duration-ms="2731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befCls -->
+        <test-method is-config="true" signature="bef()[pri:0, instance:org.data.Demo@55a147cc]" started-at="2025-05-23T12:39:37 IST" name="bef" finished-at="2025-05-23T12:39:37 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method signature="tc1()[pri:0, instance:org.data.Demo@55a147cc]" started-at="2025-05-23T12:39:37 IST" name="tc1" finished-at="2025-05-23T12:39:37 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method is-config="true" signature="aft()[pri:0, instance:org.data.Demo@55a147cc]" started-at="2025-05-23T12:39:37 IST" name="aft" finished-at="2025-05-23T12:39:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aft -->
+        <test-method is-config="true" signature="bef()[pri:0, instance:org.data.Demo@55a147cc]" started-at="2025-05-23T12:39:37 IST" name="bef" finished-at="2025-05-23T12:39:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method signature="tc2(java.lang.String,java.lang.String)[pri:0, instance:org.data.Demo@55a147cc]" started-at="2025-05-23T12:39:37 IST" name="tc2" finished-at="2025-05-23T12:39:38 IST" duration-ms="399" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[greens@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[renu@33]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method is-config="true" signature="aft()[pri:0, instance:org.data.Demo@55a147cc]" started-at="2025-05-23T12:39:38 IST" name="aft" finished-at="2025-05-23T12:39:38 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aft -->
+        <test-method is-config="true" signature="aftCls()[pri:0, instance:org.data.Demo@55a147cc]" started-at="2025-05-23T12:39:38 IST" name="aftCls" finished-at="2025-05-23T12:39:38 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftCls -->
+      </class> <!-- org.data.Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
